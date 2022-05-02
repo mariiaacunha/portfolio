@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Portfolio de Maria Vitória
 
-You can use the [editor on GitHub](https://github.com/mariiaacunha/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### sobre mim
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Oii, meu nome é Maria Vitória, tenho 15 anos e atualmente estou cursando o primeiro ano do ensino médio. Neste portfolio irei falar um pouco sobre mim!
+Nasci no dia 30/05/2006 e moro em minha cidade natal até nos dias de hoje.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### Meu Curso
+A uma uma semana comecei um curso no SENAI de criação de sites com marketing digital.
 
-# Header 1
-## Header 2
-### Header 3
+
+#####
 
 - Bulleted
 - List
