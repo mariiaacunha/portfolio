@@ -11,18 +11,8 @@ Nasci no dia 30/05/2006 e moro em minha cidade natal até nos dias de hoje.
 A uma uma semana comecei um curso no SENAI de criação de sites com marketing digital.
 
 
-#####
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+##### Meus Hobbies 
+Bom, uma das coisas que amo fazer é Ler, passo uma grande parte do meu tempo lendo, gosto muito também de mexer no celular, ouvir música e conversar com meus amigos.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
