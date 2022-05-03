@@ -18,6 +18,4 @@ Bom, as coisas que mais gosto de fazer é Ler, mexer no celular, ouvir música e
 #### Meu Idioma
 _atualmente falo meu idioma natal e um pouco de espanhol_
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
