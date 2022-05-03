@@ -18,4 +18,7 @@ Bom, as coisas que mais gosto de fazer é Ler, mexer no celular, ouvir música e
 #### Meu Idioma
 _atualmente falo meu idioma natal e um pouco de espanhol_
 
+##### Para Contato 
+Para conseguir contato envie um email para mvcnmaria@gmail.com
+
 
